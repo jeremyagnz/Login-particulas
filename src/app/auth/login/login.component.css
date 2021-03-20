@@ -113,7 +113,7 @@
 .email{
     width: 100%;
     height: 40px;
-    margin-bottom: 20   px;
+    margin-bottom: 20px;
     border-radius: 5px;
     margin-bottom: 20px;
 }
@@ -121,11 +121,11 @@
     width: 100%;
     height: 40px;
     border: 1px solid #32B978; 
-    margin-bottom: 20px;
     border-radius: 5px;
     margin-bottom: 20px;
     text-align: center;
     font-size: 15px;
+    outline: none;
 }
 .password{
     width: 100%;
@@ -142,6 +142,7 @@
     margin-bottom: 5px;
     text-align: center;
     font-size: 15px;
+    outline: none;
 }
 .singin-footer{
     width: 100%;
@@ -163,9 +164,9 @@
 .one p {
     font-size: 10px;
     margin-left: 5px;
-    color: black;
-
+    color: CBC4C4;
 }
+
 .two{
     width: 33%;
     height: 100%;
@@ -173,14 +174,13 @@
 }
 .two a{
     font-size: 10px;
-    color: black;
+    color: #CBC4C4;
     text-decoration: none;
     text-align: center;
     font-weight: bold;
-    
 }
 .btn-singin{
-     width: 147px;
+    width: 147px;
     height: 37px;
     background: #32B978;
     border: 1px solid #FFFFFF;
@@ -191,6 +191,7 @@
     font-size: 18px;
     line-height: 140.62%;
     color: #FFFFFF;
+    outline: none;
 }
 .footer{
     width: 100%;
@@ -202,10 +203,6 @@
    font-size: 15px;
    font-weight: bold;
 }
-
-
-
-
 
 .loginup{
     width: 40%;
@@ -253,7 +250,7 @@
 .btn-submit{
     width: 147px;
     height: 37px;
-    background: #32B978;
+    background: #40b67d;
     border: 1px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 30px;
@@ -262,4 +259,5 @@
     font-size: 18px;
     line-height: 140.62%;
     color: #FFFFFF;
+    outline: none;
 }
